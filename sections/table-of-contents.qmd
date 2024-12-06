@@ -1,34 +1,85 @@
-# Table of contents
+# Context
+::: {.column .information width="100%"}
+<span style="font-size: 30px;">Where is the South of France ?</span>
+:::
+<!-- Title slide logo -->
+::: {.column .logo width="100%"}
+![](images/cardinal-points-map.png){width=60%}
+:::
+<br>
+<br>
+<br>
 
----
-
-## Table of contents
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-:::: { .columns }
-
-::: { .column .center width="33%"}
-{{< fa code size=2x >}}
-<br>
-Section 1
+# Context
+<!-- Title slide logo -->
+::: {.column .logo width="100%"}
+![](images/twitter-citation.png){width=55%}
 :::
 
-::: { .column .center width="33%"}
-{{< fa brands github size=2x >}}
-<br>
-Section 2
+# Context
+::: {.column .information width="100%"}
+<span style="font-size: 30px;">Where is the South of France ?</span>
 :::
-
-::: { .column .center width="33%"}
-{{< fa book size=2x >}}
-<br>
-Resources
+<!-- Title slide logo -->
+::: {.column .logo width="100%"}
+![](images/winnie-gif.gif){width=70%}
 :::
+<br>
+<br>
+<br>
 
-::::
+# Project aims
+<br>
+<br>
+<br>
+<br>
+<br>
+<span style="font-size: 30px; text-align: left;">1. Where are the four cardinal points located according to climatic data ?</span>
+
+<span style="font-size: 30px; text-align: left;">2. Where do the French really place the "south of France" ?</span>
+
+<span style="font-size: 30px; text-align: left;">3. Does this perception vary depending on their geographical origin or current place of residence ?</span>
+
+<span style="font-size: 30px; text-align: left;">4. Is there a connection between perceived sensitivity to cold and the location of the south as identified by respondents ?</span>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Materials and methods
+<br>
+<br>
+<span style="font-size: 30px; text-align: left;">Survey with different parameters :</span>
+<br>
+<br>
+<br>
+<span style="font-size: 30px; text-align: left;">1. Childhood city and current city of residence.</span>
+
+<span style="font-size: 30px; text-align: left;">2. Personal view of the boundaries of the south, north, east, and west on a map.</span>
+
+<span style="font-size: 30px; text-align: left;">3. Sensitivity to cold (on a scale from 1 to 5, where 1 means "not sensitive to cold" and 5 means "very sensitive to cold").</span>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Results
+<br>
+<br>
+<span style="font-size: 30px;">[Quarto book](https://cartonumerique.blogspot.com/2020/08/nord-sud-france.html)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
